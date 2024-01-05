@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamgauravpande](https://github.com/iamgauravpande)
 
-- 💬 Ask me about **GitOps,Observability,GCP Cloud**
+- 💬 Ask me about **GitOps,Observability,GCP Cloud,Apache kafka**
 
 - 📫 How to reach me **gaurav-pande21@hotmail.com**
 
