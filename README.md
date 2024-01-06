@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **GitOps,Observability,GCP Cloud,Apache kafka**
 
-- 📫 How to reach me **gaurav-pande21@hotmail.com**
+- 📫 How to reach me **gaupande21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
