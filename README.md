@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgauravpande&label=Profile%20views&color=0e75b6&style=flat" alt="iamgauravpande" /> </p>
 
-- 🌱 I’m currently learning **GCP, Terraform**
+- 🌱 I’m currently learning **Azure, Terraform**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamgauravpande](https://github.com/iamgauravpande)
 
-- 💬 Ask me about **GitOps,Observability,GCP Cloud,Apache kafka**
+- 💬 Ask me about **GitOps,Observability,GCP Cloud,Apache kafka,IaaC**
 
 - 📫 How to reach me **gaupande21@gmail.com**
 
