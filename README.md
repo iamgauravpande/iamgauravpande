@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=iamgauravpande&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm Gaurav Pande</h1>
-<h3 align="center">A Cloud DevOps Engineer by Profession and Curious Learner by nature</h3>
+<h3 align="center">A Cloud DevOps Engineer by Profession and Curious Learner and Technophile by Nature</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on: Terraform, GitOps and Google Cloud.<br>🌱 I’m currently learning: Microsoft Azure<br>💬 Ask me about: GitOps, Observability, GCP Cloud, Apache Kafka, IaaC and Serverless<br> 📫 How to reach me **gaupande21@gmail.com** <br> 
