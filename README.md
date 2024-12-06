@@ -12,6 +12,8 @@
 # Certifications: 
 
 ![kcna-kubernetes-and-cloud-native-associate](https://github.com/iamgauravpande/iamgauravpande/assets/142805967/78bd8b94-8d10-4d61-844d-30d6da298ee1)
+![Scaling-cloud-native-applications-with-ked](https://github.com/user-attachments/assets/fcc9f538-a3d9-444b-86d5-d21e4e919497)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamgauravpande&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
